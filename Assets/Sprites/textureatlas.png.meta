@@ -1,0 +1,971 @@
+fileFormatVersion: 2
+guid: 844402d3ca9ea114787de1154857978f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bobby1
+    21300002: bobby2
+    21300004: bobby3
+    21300006: bobby4
+    21300008: bobby5
+    21300010: bobby6
+    21300012: bobby7
+    21300014: bobby8
+    21300016: bobby9
+    21300018: enemy1_1
+    21300020: enemy1_2
+    21300022: enemy1_3
+    21300024: enemy1_4
+    21300026: enemy2_1
+    21300028: enemy2_2
+    21300030: enemy2_3
+    21300032: enemy2_4
+    21300034: explosion_1
+    21300036: explosion_2
+    21300038: go321_1
+    21300040: go321_2
+    21300042: buttonunlock1
+    21300044: enemy3_1
+    21300046: enemy3_2
+    21300048: enemy3_3
+    21300050: enemy3_4
+    21300052: enemy4_1
+    21300054: enemy4_2
+    21300056: enemy4_3
+    21300058: enemy4_4
+    21300060: explosion_4
+    21300062: go321_3
+    21300064: go321_4
+    21300066: buttonlock1
+    21300068: enemy5_1
+    21300070: enemy5_2
+    21300072: enemy5_3
+    21300074: enemy5_5
+    21300076: explosion_3
+    21300078: enemy5_5
+    21300080: enemy5_6
+    21300082: enemy5_7
+    21300084: codeleft1
+    21300086: coderight1
+    21300088: codedown1
+    21300090: codeup1
+    21300092: codea1
+    21300094: codeb1
+    21300096: codegreenleft1
+    21300098: codegreenright1
+    21300100: codegreendown1
+    21300102: codegreenup1
+    21300104: codegreena1
+    21300106: codegreenb1
+    21300108: buttona1
+    21300110: buttonb1
+    21300112: codecountdown1
+    21300114: codecountdown9
+    21300116: codecountdown17
+    21300118: codecountdown2
+    21300120: codecountdown10
+    21300122: codecountdown18
+    21300124: codecountdown3
+    21300126: codecountdown19
+    21300128: codecountdown4
+    21300130: codecountdown12
+    21300132: codecountdown20
+    21300134: codecountdown5
+    21300136: codecountdown13
+    21300138: codecountdown6
+    21300140: codecountdown14
+    21300142: codecountdown7
+    21300144: codecountdown15
+    21300146: codecountdown8
+    21300148: codecountdown16
+    21300150: thearrow1
+    21300152: menu_green
+    21300154: menu_orange
+    21300156: menu_blue
+    21300158: gametitle1
+    21300160: gametitle2
+    21300162: codecountdown11
+    21300164: button_ingame_menu1
+    21300166: empty_filler_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bobby1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 490
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bobby2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 490
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bobby3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 490
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bobby4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 490
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bobby5
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 489
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bobby6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 489
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bobby7
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 488
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bobby8
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 488
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bobby9
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 487
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 468
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 468
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 468
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1_4
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 468
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy2_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 447
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy2_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 447
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy2_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 447
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy2_4
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 447
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 410
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 410
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: go321_1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 425
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: go321_2
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 425
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttonunlock1
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 432
+        width: 62
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy3_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 425
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy3_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 425
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy3_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 425
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy3_4
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 425
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy4_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 402
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy4_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 402
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy4_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 402
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy4_4
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 402
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 344
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: go321_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 393
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: go321_4
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 401
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttonlock1
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 391
+        width: 62
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy5_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 383
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy5_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 383
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy5_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 383
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy5_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 383
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 346
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy5_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 364
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy5_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 364
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy5_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 364
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codeleft1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 329
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coderight1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 329
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codedown1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 328
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codeup1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 328
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codea1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 328
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codeb1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 328
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codegreenleft1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 312
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codegreenright1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 312
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codegreendown1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 311
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codegreenup1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 311
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codegreena1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 311
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codegreenb1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 311
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttona1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 267
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttonb1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 268
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codecountdown1
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 315
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codecountdown9
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 315
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codecountdown17
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 315
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codecountdown2
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 308
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codecountdown10
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 308
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codecountdown18
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 309
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codecountdown3
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 302
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codecountdown19
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 303
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codecountdown4
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 296
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codecountdown12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 296
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codecountdown20
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 297
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codecountdown5
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 290
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codecountdown13
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 290
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codecountdown6
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 284
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codecountdown14
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 284
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codecountdown7
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 278
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codecountdown15
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 278
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codecountdown8
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 272
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codecountdown16
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 272
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thearrow1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 26
+        width: 239
+        height: 243
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menu_green
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 178
+        width: 188
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menu_orange
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 117
+        width: 188
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menu_blue
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 54
+        width: 188
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gametitle1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 38
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gametitle2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 38
+        width: 62
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: codecountdown11
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 302
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button_ingame_menu1
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 274
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: empty_filler_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 372
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
