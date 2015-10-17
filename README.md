@@ -9,6 +9,12 @@ A game for Android in which you dodge cars on a highway with a Go-Kart. Extremel
 
 Use the arrow keys to move around and dodge. Periodically a code will appear at the top of the screen. You can lock-in enter the code and lock-out to gain two lives and additional points. But beware, entering the code will still move your character around, so you will need to keep your eyes on the road. The longer you are alive the higher score you will get.
 
+<ul>
+<li>Drew own sprites with pixel-art using PAINT.net and put together animations for driving, explosions and collisions.</li>
+<li>Created scripts for player movement, enemy spawning, and foreground and background parallax illusions.</li>
+<li>Uses important object pooling to prevent dynamic object creation and destruction which can slow down the game.</li>
+
+</ul>
 
 ###Preview
 
